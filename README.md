@@ -20,9 +20,9 @@ The objective of this project was to develop Machine Learning algorithms in orde
 
 ## Statistics of ID3 on Test Dataset
 
-![](assets/ID1.png)
+![](assets/ID31.png)
 
-![](assets/ID2.png)
+![](assets/ID32.png)
 
 ## Setting up
 
